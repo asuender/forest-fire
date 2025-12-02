@@ -1,0 +1,7 @@
+[project]
+name = "forest-fire"
+version = "0.1.0"
+description = "A Python-based simulation of the Drossel and Schwabl (1992) forest-fire model."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
